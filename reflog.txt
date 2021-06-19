@@ -1,0 +1,14 @@
+befa54b HEAD@{0}: commit: deathedHEADBranch
+92de872 HEAD@{1}: checkout: moving from main to 92de872
+eaa8755 HEAD@{2}: pull: Fast-forward
+5324689 HEAD@{3}: checkout: moving from texts to main
+147321b HEAD@{4}: commit: Kant rozprawa
+92de872 HEAD@{5}: commit: Lorem ipusum
+5324689 HEAD@{6}: checkout: moving from main to texts
+5324689 HEAD@{7}: pull: Fast-forward
+9810faf HEAD@{8}: checkout: moving from personal_details to main
+d77be50 HEAD@{9}: commit: E-mail address
+b1bcaa4 HEAD@{10}: commit: Index number
+56bb234 HEAD@{11}: commit: First and last name
+9810faf HEAD@{12}: checkout: moving from main to personal_details
+9810faf HEAD@{13}: clone: from https://github.com/poprostugame/praktyczny.git
